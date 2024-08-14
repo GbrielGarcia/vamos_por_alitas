@@ -10,7 +10,7 @@ function mostrar(){
         confirmButtonText: "VAMOS",
     })
     .then((confirmButtonText) => {
-      let url = new  URL('https://walink.co/6236e4');
+      let url = new  URL('https://albertoguaman.com/');
     
       open(url);
 
